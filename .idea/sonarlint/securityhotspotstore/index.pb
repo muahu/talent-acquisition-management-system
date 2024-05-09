@@ -1,0 +1,36 @@
+
+9
+	README.md,8/e/8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
+:
+
+.gitignore,a/5/a5cc2925ca8258af241be7e5b0381edf30266302
+A
+tams-fe/gitignore,0/7/0745dc06fae16064cb120c5ee63b259ff24efa39
+B
+tams-fe/.gitignore,0/f/0f41edc6456e4e3d78520620ae535279b8773244
+A
+tams-fe/README.md,0/5/05dcbc1a1c637b13c5169e923f6bf8989d80589a
+W
+'tams-be/career-portal-service/gitignore,f/3/f3c42b86d282db6457799673a9f7d506a306eb6f
+X
+(tams-be/career-portal-service/.gitignore,0/d/0d837cf8e509b377543e4281211ae149621e90a1
+]
+-tams-be/talent-fulfillment-service/.gitignore,1/f/1fa60ce025397af4279e013df436b33d5f92c640
+\
+,tams-be/talent-fulfillment-service/gitignore,7/c/7c8805640d2265c4757cb7203a5ea82933a7883d
+Y
+)tams-be/talent-request-service/.gitignore,c/4/c4a406fbfffd4a51bdbe5248cad8d4e0d4e087f1
+S
+#tams-be/tams-api-gateway/.gitignore,c/2/c2dfa53fa21f9398a602c7fc074c93cf672585ea
+P
+ tams-be/tams-core-api/.gitignore,3/0/306517625f2930d684e818a13553cc4643781e87
+Y
+)tams-be/tams-discovery-service/.gitignore,3/e/3e255ba999adf962a1d164fef551e6c3be14dbb0
+X
+(tams-be/tams-discovery-service/gitignore,4/d/4dc19d6f335e59f1b834807bac19e67152f07de4
+O
+tams-be/tams-core-api/gitignore,5/e/5eb7a1ea366878b8ebbe3e4b0c7733a5bc523dfa
+R
+"tams-be/tams-api-gateway/gitignore,9/c/9c9a2da962ce52be0b119787de278ecaaafe81f0
+X
+(tams-be/talent-request-service/gitignore,3/e/3eb3929f7284dae9f2c59af12a62eb7f73e592f7
